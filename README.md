@@ -26,7 +26,30 @@
 | 🔓 [Tor](https://www.torproject.org/) | Web Browser | Anonymity-focused browser for secure and private internet access. |
 
 
----
+
+## 🖥 CLOUD STORAGE
+
+| Tool | Type | Notes |
+|------|------|-------|
+| 💲 [Fillen](https://fillen.com/) 🌟 | Cloud Storage | Secure cloud storage solution with file sharing and collaboration features. |
+| 💲 [MEGA](https://mega.nz/) | Cloud Storage | Cloud storage with end-to-end encryption and generous free storage. |
+
+
+
+## 🖥 EMAIL PROVIDER
+
+| Tool | Type | Notes |
+|------|------|-------|
+| 🔓 [Proton Mail](https://proton.me/mail) | Email Provider | Secure, privacy-focused email service with end-to-end encryption. |
+
+
+
+## 🖥 EMAIL FORWARDER / MASKING
+
+| Tool | Type | Notes |
+|------|------|-------|
+| 🔓 [Firefox Relay](https://relay.firefox.com/) | Email Forwarding / Masking | Create alias emails to protect your real inbox and enhance privacy. |
+
 
 
 ## ⚡ Tips & Tricks
