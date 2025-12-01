@@ -1,8 +1,9 @@
 # 🌟 Must have Apps List for Windows Users
 
->  Welcome to my curated collection of high-quality software, tools, and learning resources for productivity, design, development, and education.  
+>  Welcome to my curated collection of high-quality software, tools, and learning resources for productivity, design, development, and education.
+> 
 >  This list is maintained as a personal reference but shared publicly to provide a reliable and organized guide for anyone seeking trusted resources. Each item is carefully selected based on usefulness, reliability, and relevance.
-
+>
 > Updated regularly ✅
 
 ---
