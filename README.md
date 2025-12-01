@@ -16,14 +16,15 @@
 
 ---
 
-## 🖥 Productivity Tools
+## 🖥 BROWSERS
 
 | Tool | Type | Notes |
 |------|------|-------|
-| ❤️ [Notion](https://www.notion.so/) | Note-taking / PM | Great for organizing projects |
-| [Obsidian](https://obsidian.md/) | Knowledge Base | Markdown-based, local files |
-| [Todoist](https://todoist.com/) | Task Manager | Simple and effective |
-| ~~[Evernote](https://evernote.com/)~~ | Note-taking | Less private, older version |
+| 🔓 [Firefox](https://www.mozilla.org/firefox/) 🌟 | Web Browser | Open-source browser focusing on privacy, security, and customization. |
+| 🔓 [Brave](https://www.brave.com/) 🌟 | Web Browser | A fast, private, and secure web browser with built-in ad and tracker blocking. |
+| 🔓 [Floorp](https://floorp.org/) | Web Browser | Lightweight, privacy-focused browser with modern features. |
+| 🔓 [Tor](https://www.torproject.org/) | Web Browser | Anonymity-focused browser for secure and private internet access. |
+
 
 ---
 
