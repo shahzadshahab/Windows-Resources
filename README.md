@@ -1,17 +1,17 @@
-# 🌟 My Curated List of Resources
+# 🌟 Must have Apps List for Windows Users
 
-> A personal reference of useful tools and resources. Anyone can use this list for future reference.  
+>  Welcome to my curated collection of high-quality software, tools, and learning resources for productivity, design, development, and education.  
+>  This list is maintained as a personal reference but shared publicly to provide a reliable and organized guide for anyone seeking trusted resources. Each item is carefully selected based on usefulness, reliability, and relevance.
+
 > Updated regularly ✅
 
 ---
 
 ## ⚠️ Important Notes
 
-- **Strikethrough** `~~App~~` = Not recommended, possibly outdated or not private.  
-- Some apps could infringe copyright or other laws.  
-- Microsoft Store Apps may lack full desktop features.  
-- Always check **privacy policies**; some apps haven’t been updated in a while.  
-- **Microsoft Store** – Store app | **Repository** – Source code repo | **Open** – Open Source | ❤️ – My Favorites  
+- 🌟 – Personal favorites  
+- 🔓 – Open Source  
+- 💲 – Paid
 
 ---
 
@@ -26,36 +26,6 @@
 
 ---
 
-## 🎨 Design Tools
-
-| Tool | Type | Notes |
-|------|------|-------|
-| [Figma](https://www.figma.com/) | Design / Prototyping | Free plan, cloud-based |
-| [Canva](https://www.canva.com/) | Graphic Design | Easy drag-and-drop editor |
-| [GIMP](https://www.gimp.org/) | Image Editor | Open Source, free |
-| ~~[Paint.NET](https://www.getpaint.net/)~~ | Image Editor | Limited updates |
-
----
-
-## 💻 Development Tools
-
-| Tool | Type | Notes |
-|------|------|-------|
-| [VS Code](https://code.visualstudio.com/) | Code Editor | Open Source, versatile |
-| [GitHub Desktop](https://desktop.github.com/) | Git GUI | Easy Git management |
-| [Postman](https://www.postman.com/) | API Development | Free tier available |
-
----
-
-## 🌐 Learning Resources
-
-| Resource | Type | Notes |
-|----------|------|-------|
-| [freeCodeCamp](https://www.freecodecamp.org/) | Coding Courses | Open Source, free |
-| [Khan Academy](https://www.khanacademy.org/) | General Learning | Free courses on multiple subjects |
-| [Coursera](https://www.coursera.org/) | Online Courses | Many free courses, verified certificates optional |
-
----
 
 ## ⚡ Tips & Tricks
 
